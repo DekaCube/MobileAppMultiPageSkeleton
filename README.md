@@ -6,4 +6,6 @@ This contains the /www folder for a cordova starter project
 1. Create a new cordova project with ```cordova create MyProject```
 2. Navigate to that folder
 3. enter ```cordova platform add browser```
-4. Replace the contents of the www folder with the www contents here. 
+4. Replace the contents of the www folder with the www from this repo. 
+5. enter ```cordova build```
+6. enter ```cordova emulate browser```
